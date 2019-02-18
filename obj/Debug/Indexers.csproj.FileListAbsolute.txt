@@ -1,0 +1,7 @@
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\ДжабашевН.CORP\source\repos\Indexer\Indexer\obj\Debug\Indexer.pdb
